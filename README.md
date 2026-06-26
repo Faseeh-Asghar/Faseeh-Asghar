@@ -68,7 +68,7 @@ Currently working through the **IBM DevOps & Software Engineering Professional C
 ---
 
 <div align="center">
-<sub>Updated June 2026 · Lahore, Pakistan</sub>
+<sub>Updated June 2026 · Pakistan</sub>
 </div>
 
 ## About this Repository
