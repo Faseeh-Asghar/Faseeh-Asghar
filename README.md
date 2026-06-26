@@ -49,15 +49,6 @@ Currently working through the **IBM DevOps & Software Engineering Professional C
 
 ---
 
-## About this Repository
-
-This profile README is maintained as part of my summer 2026 learning journey.
-Currently Building: Full stack Development + DevOps skills.
-
-**Fast NUCES | BSCS 3rd Year**
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -73,6 +64,15 @@ Currently Building: Full stack Development + DevOps skills.
 ## 📬 Connect
 
 [![Email](https://img.shields.io/badge/Email-faseehasghar167%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:faseehasghar167@gmail.com)
+
+---
+
+## About this Repository
+
+This profile README is maintained as part of my summer 2026 learning journey.
+Currently Building: Full stack Development + DevOps skills.
+
+**Fast NUCES | BSCS 3rd Year**
 
 ---
 
