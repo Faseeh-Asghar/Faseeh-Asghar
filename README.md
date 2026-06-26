@@ -67,15 +67,6 @@ Currently working through the **IBM DevOps & Software Engineering Professional C
 
 ---
 
-## About this Repository
-
-This profile README is maintained as part of my summer 2026 learning journey.
-Currently Building: Full stack Development + DevOps skills.
-
-**Fast NUCES | BSCS 3rd Year**
-
----
-
 <div align="center">
 <sub>Updated June 2026 · Lahore, Pakistan</sub>
 </div>
