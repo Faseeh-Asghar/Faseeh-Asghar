@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Faseeh+Ur+Rehman+Asghar;Full+Stack+Developer+%7C+DevOps+Engineer;CS+%40+FAST+NUCES%2C+Pakistan;Building+real+things%2C+not+just+tutorials." alt="Faseeh Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Faseeh+Ur+Rehman+Asghar;Full+Stack+Developer+%7C+DevOps+Engineer;CS+%40+FAST+NUCES%2C+Pakistan;Open+to+work+%7C+Hire+me." alt="Faseeh Typing" />
 
 </div>
 
