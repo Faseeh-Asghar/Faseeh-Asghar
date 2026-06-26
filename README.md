@@ -8,7 +8,7 @@
 
 ## About Me
 
-CS student at **FAST NUCES Lahore** — one of Pakistan's top CS universities.
+CS student at **FAST NUCES** — one of Pakistan's top CS universities.
 
 I'm spending this summer building real, production-quality skills in Full Stack Development and DevOps. Not certificates alone — actual shipped projects.
 
@@ -48,6 +48,13 @@ Currently working through the **IBM DevOps & Software Engineering Professional C
 - [ ] Land first freelance client
 
 ---
+
+## About this Repository
+
+This profile README is maintained as part of my summer 2026 learning journey.
+Currently Building: Full stack Development + DevOps skills.
+
+**Fast NUCES | BSCS 3rd Year**
 
 ## 📊 GitHub Stats
 
